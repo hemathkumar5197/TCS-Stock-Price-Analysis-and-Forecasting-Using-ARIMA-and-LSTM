@@ -12,7 +12,7 @@ The project follows an end-to-end data science workflow, including data collecti
 - Perform exploratory data analysis.
 - Visualize stock-price trends and moving averages.
 - Forecast stock prices using ARIMA and LSTM.
-- Compare model performance using MAE, MSE, and MAPE.
+- Compare model performance using MAE, MSE and MAPE.
 
 ## 📊 Dataset
 
